@@ -1,6 +1,6 @@
 {
   "name": "html_sanitize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module Sanitizes HTML input, stripping all tags and attributes that aren't whitelisted.HTML sanitization can be used to protect against cross-site scripting (XSS) attacks by sanitizing any HTML code submitted by a user.",
   "main": "index.js",
   "scripts": {
