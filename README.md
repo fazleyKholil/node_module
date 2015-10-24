@@ -30,4 +30,4 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Release History
 
-* 1.1.2 Initial release
+* 1.1.4 Initial release
