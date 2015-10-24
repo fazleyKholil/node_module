@@ -1,0 +1,26 @@
+{
+  "name": "test_module",
+  "version": "0.1.0",
+  "description": "This is a dummy server that will help you to set up a webservice for testing purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazleyKholil/node_module.git"
+  },
+  "keywords": [
+    "dummy"
+  ],
+  "author": "Fazley Kholil <fazleykholil@yahoo.com> (http://fazleykholil.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fazleyKholil/node_module/issues"
+  },
+  "homepage": "https://github.com/fazleyKholil/node_module#readme",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
