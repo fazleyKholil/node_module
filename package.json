@@ -1,5 +1,5 @@
 {
-  "name": "scapegoat",
+  "name": "html_sanitize",
   "version": "0.1.0",
   "description": "This is a dummy server that will help you to set up a webservice for testing purposes.",
   "main": "index.js",
