@@ -9,7 +9,7 @@ A small library providing utility methods to `escape` and `unescape` HTML entiti
 
 ## Usage
 
-```
+```javascript
   var html_sanitize = require('html_sanitize')
       escape = html_sanitize.escape,
       unescape = html_sanitize.unescape;
