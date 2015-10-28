@@ -1,30 +1,30 @@
 {
-  "name": "html-sanitize",
-  "version": "1.1.4",
-  "description": "This module Sanitizes HTML input, stripping all tags and attributes that aren't whitelisted.HTML sanitization can be used to protect against cross-site scripting (XSS) attacks by sanitizing any HTML code submitted by a user.",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha -R list"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fazleyKholil/node_module.git"
-  },
-  "keywords": [
+    "name": "html-sanitize",
+    "version": "1.1.5",
+    "description": "This module Sanitizes HTML input, stripping all tags and attributes that aren't whitelisted.HTML sanitization can be used to protect against cross-site scripting (XSS) attacks by sanitizing any HTML code submitted by a user.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha -R list"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fazleyKholil/node_module.git"
+    },
+    "keywords": [
     "sanitize",
     "html",
     "html sanitize",
     "escape",
     "unescape"
   ],
-  "author": "Fazley Kholil <fazleykholil@yahoo.com> (http://fazleykholil.net/)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fazleyKholil/node_module/issues"
-  },
-  "homepage": "https://github.com/fazleyKholil/node_module#readme",
-  "devDependencies": {
-    "chai": "^3.4.0",
-    "mocha": "^2.3.3"
-  }
+    "author": "Fazley Kholil <fazleykholil@yahoo.com> (http://fazleykholil.net/)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fazleyKholil/node_module/issues"
+    },
+    "homepage": "https://github.com/fazleyKholil/node_module#readme",
+    "devDependencies": {
+        "chai": "^3.4.0",
+        "mocha": "^2.3.3"
+    }
 }
